@@ -1,4 +1,4 @@
----
+---6
 manufacturer:
     - tecno
 
